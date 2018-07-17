@@ -1,0 +1,13 @@
+/*
+ * Main SCSS entrypoint. All file includes - like blocks and
+ * general settings - should go here.
+ */
+
+// Infra
+@import './variables';
+@import './mixins';
+@import './settings';
+
+// Blocks
+@import './blocks/foo-bar';
+@import './blocks/header';

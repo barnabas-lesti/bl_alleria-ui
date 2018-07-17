@@ -1,0 +1,10 @@
+{
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"eslint.enable": true,
+	"eslint.options": {
+		"configFile": "./ui/.eslintrc.json"
+	},
+	"sasslint.configFile": "./ui/.sass-lint.yml",
+	"sasslint.resolvePathsRelativeToConfig": true
+}
